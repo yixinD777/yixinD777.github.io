@@ -1,0 +1,18 @@
+.counter-section {
+    text-align: center;
+    margin: 20px 0;
+}
+
+#incrementBtn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #00a1d6;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#incrementBtn:hover {
+    background-color: #008bb5;
+}
